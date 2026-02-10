@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0（原max的博客7.0）</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0（原max的博客7.0）</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Tue, 10 Feb 2026 07:52:03 +0000</lastBuildDate><managingEditor>720科技的博客8.0（原max的博客7.0）</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0（原max的博客7.0）</webMaster><item><title>我的网站历代“死因”（更新版）</title><link>https://lianglitao.github.io//post/wo-de-wang-zhan-li-dai-%E2%80%9C-si-yin-%E2%80%9D%EF%BC%88-geng-xin-ban-%EF%BC%89.html</link><description># 我的项目：从诞生到摆烂
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0（原max的博客7.0）</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0（原max的博客7.0）</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Tue, 10 Feb 2026 07:53:09 +0000</lastBuildDate><managingEditor>720科技的博客8.0（原max的博客7.0）</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0（原max的博客7.0）</webMaster><item><title>我的网站历代“死因”（更新版）</title><link>https://lianglitao.github.io//post/wo-de-wang-zhan-li-dai-%E2%80%9C-si-yin-%E2%80%9D%EF%BC%88-geng-xin-ban-%EF%BC%89.html</link><description># 我的项目：从诞生到摆烂
 ## 迭代进度
 - 1.0：没人看 📉
 - 2.0：没人看 📉
@@ -17,33 +17,8 @@
 | 稳定性 | 2/10 |
 | 存活度 | 10/10 |
 
-&gt; 项目格言：只要我不删库，项目就不算凉 🐶&lt;!-- ##{'timestamp':1766215605}## --&gt;。</description><guid isPermaLink="true">https://lianglitao.github.io//post/wo-de-wang-zhan-li-dai-%E2%80%9C-si-yin-%E2%80%9D%EF%BC%88-geng-xin-ban-%EF%BC%89.html</guid><pubDate>Tue, 10 Feb 2026 07:51:34 +0000</pubDate></item><item><title>我的历代迭代手记（更新版）</title><link>https://lianglitao.github.io//post/wo-de-li-dai-die-dai-shou-ji-%EF%BC%88-geng-xin-ban-%EF%BC%89.html</link><description># 我的项目：从诞生到摆烂
-## 迭代进度
-- 1.0：没人看 📉
-- 2.0：没人看 📉
-- 3.0：bug 🚨
-- 4.0：bug 🚨
-- 5.0：没人看 📉
-- 6.0：没人看 📉
-- 7.0：没人看 📉
-- 8.0：还活着 🎉
-
-## 项目健康度
-| 维度 | 评分 |
-|------|------|
-| 关注度 | 0/10 |
-| 稳定性 | 2/10 |
-| 存活度 | 10/10 |
-
-&gt; 项目格言：只要我不删库，项目就不算凉 🐶
-&lt;!-- ##{'timestamp':1752910005}## --&gt;。</description><guid isPermaLink="true">https://lianglitao.github.io//post/wo-de-li-dai-die-dai-shou-ji-%EF%BC%88-geng-xin-ban-%EF%BC%89.html</guid><pubDate>Tue, 10 Feb 2026 07:48:11 +0000</pubDate></item><item><title>马年更新✨（终于更新了，还换风格了）</title><link>https://lianglitao.github.io//post/ma-nian-geng-xin-%E2%9C%A8%EF%BC%88-zhong-yu-geng-xin-le-%EF%BC%8C-huan-huan-feng-ge-le-%EF%BC%89.html</link><description>## 🐎马年&lt;del&gt; 压轴 &lt;/del&gt; 赶工更新（迟到但到！）
+&gt; 项目格言：只要我不删库，项目就不算凉 🐶&lt;!-- ##{'timestamp':1766215605}## --&gt;。</description><guid isPermaLink="true">https://lianglitao.github.io//post/wo-de-wang-zhan-li-dai-%E2%80%9C-si-yin-%E2%80%9D%EF%BC%88-geng-xin-ban-%EF%BC%89.html</guid><pubDate>Tue, 10 Feb 2026 07:51:34 +0000</pubDate></item><item><title>马年更新✨（终于更新了，还换风格了）</title><link>https://lianglitao.github.io//post/ma-nian-geng-xin-%E2%9C%A8%EF%BC%88-zhong-yu-geng-xin-le-%EF%BC%8C-huan-huan-feng-ge-le-%EF%BC%89.html</link><description>## 🐎马年&lt;del&gt; 压轴 &lt;/del&gt; 赶工更新（迟到但到！）
 👉 ==摆烂实锤==：2月10日才慢悠悠更新，年前懒得动，年后赶工党本人～
 ✅ 核心成果：「720安全卫士」UI重构焕新 + 字体问题修复
 ✅ 附加收获：摸鱼间隙顺手拿捏博客发布、置顶等全操作
-🎯 总结：懒归懒，&lt;del&gt;庆祝马年&lt;/del&gt; 该干的活儿可没落下！。</description><guid isPermaLink="true">https://lianglitao.github.io//post/ma-nian-geng-xin-%E2%9C%A8%EF%BC%88-zhong-yu-geng-xin-le-%EF%BC%8C-huan-huan-feng-ge-le-%EF%BC%89.html</guid><pubDate>Tue, 10 Feb 2026 05:30:27 +0000</pubDate></item><item><title>720安全卫士和记账应用最新下载链接</title><link>https://lianglitao.github.io//post/720-an-quan-wei-shi-he-ji-zhang-ying-yong-zui-xin-xia-zai-lian-jie.html</link><description>720安全卫士和记账应用已经挂网站上了：[Github下载](https://github.com/lianglitao/lianglitao.github.io/blob/main/资源.zip '下载720安全卫士和记账应用')。</description><guid isPermaLink="true">https://lianglitao.github.io//post/720-an-quan-wei-shi-he-ji-zhang-ying-yong-zui-xin-xia-zai-lian-jie.html</guid><pubDate>Tue, 10 Feb 2026 05:04:29 +0000</pubDate></item><item><title>我的历代网站死因</title><link>https://lianglitao.github.io//post/wo-de-li-dai-wang-zhan-si-yin.html</link><description>1.0：没人看
-2.0：没人看
-3.0：bug
-4.0：bug
-5.0：没人看
-6.0：没人看
-7.0：还活着。</description><guid isPermaLink="true">https://lianglitao.github.io//post/wo-de-li-dai-wang-zhan-si-yin.html</guid><pubDate>Sat, 20 Dec 2025 08:39:13 +0000</pubDate></item><item><title>哈哈耽误了几天学</title><link>https://lianglitao.github.io//post/ha-ha-dan-wu-le-ji-tian-xue.html</link><description>最近生了点小病耽误了几天学，最近好一些了，这周更得有点晚，拖到了下周一，我在这里表示歉意。</description><guid isPermaLink="true">https://lianglitao.github.io//post/ha-ha-dan-wu-le-ji-tian-xue.html</guid><pubDate>Mon, 15 Dec 2025 04:09:13 +0000</pubDate></item><item><title>MAX我的网站7.0已上线MAX</title><link>https://lianglitao.github.io//post/MAX-wo-de-wang-zhan-7.0-yi-shang-xian-MAX.html</link><description>这是我的网站 7.0 上的首个文章，上线成功！。</description><guid isPermaLink="true">https://lianglitao.github.io//post/MAX-wo-de-wang-zhan-7.0-yi-shang-xian-MAX.html</guid><pubDate>Sat, 06 Dec 2025 04:51:19 +0000</pubDate></item></channel></rss>
+🎯 总结：懒归懒，&lt;del&gt;庆祝马年&lt;/del&gt; 该干的活儿可没落下！。</description><guid isPermaLink="true">https://lianglitao.github.io//post/ma-nian-geng-xin-%E2%9C%A8%EF%BC%88-zhong-yu-geng-xin-le-%EF%BC%8C-huan-huan-feng-ge-le-%EF%BC%89.html</guid><pubDate>Tue, 10 Feb 2026 05:30:27 +0000</pubDate></item><item><title>720安全卫士和记账应用最新下载链接</title><link>https://lianglitao.github.io//post/720-an-quan-wei-shi-he-ji-zhang-ying-yong-zui-xin-xia-zai-lian-jie.html</link><description>720安全卫士和记账应用已经挂网站上了：[Github下载](https://github.com/lianglitao/lianglitao.github.io/blob/main/资源.zip '下载720安全卫士和记账应用')。</description><guid isPermaLink="true">https://lianglitao.github.io//post/720-an-quan-wei-shi-he-ji-zhang-ying-yong-zui-xin-xia-zai-lian-jie.html</guid><pubDate>Tue, 10 Feb 2026 05:04:29 +0000</pubDate></item><item><title>哈哈耽误了几天学</title><link>https://lianglitao.github.io//post/ha-ha-dan-wu-le-ji-tian-xue.html</link><description>最近生了点小病耽误了几天学，最近好一些了，这周更得有点晚，拖到了下周一，我在这里表示歉意。</description><guid isPermaLink="true">https://lianglitao.github.io//post/ha-ha-dan-wu-le-ji-tian-xue.html</guid><pubDate>Mon, 15 Dec 2025 04:09:13 +0000</pubDate></item><item><title>MAX我的网站7.0已上线MAX</title><link>https://lianglitao.github.io//post/MAX-wo-de-wang-zhan-7.0-yi-shang-xian-MAX.html</link><description>这是我的网站 7.0 上的首个文章，上线成功！。</description><guid isPermaLink="true">https://lianglitao.github.io//post/MAX-wo-de-wang-zhan-7.0-yi-shang-xian-MAX.html</guid><pubDate>Sat, 06 Dec 2025 04:51:19 +0000</pubDate></item></channel></rss>
