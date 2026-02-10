@@ -1,5 +1,6 @@
 {
 "GMEEK_VERSION":"main",
+"title":"720科技的博客8.0（原max的博客7.0）",
 "displayTitle":"720科技的博客8.0（原max的博客7.0）",
 "homeUrl":"https://lianglitao.github.io/",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
@@ -26,7 +27,7 @@
 "indexScript":"",
 "showPostSource":1,
 "rssSplit":"sentence",
-"bottomText":"转载不用注明出处哈",
+"bottomText":"转载不用注明出处",
 "ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
 "needComment":0
