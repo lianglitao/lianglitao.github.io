@@ -2,7 +2,7 @@
 "GMEEK_VERSION":"main",
 "title":"720科技的博客8.0（原max的博客7.0）",
 "subTitle":"720科技的日常分享",
-"avatarUrl":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
+"avatarUrl":"https://blog.meekdai.com/avatar.svg",
 "displayTitle":"720科技的博客8.0（原max的博客7.0）",
 "homeUrl":"https://lianglitao.github.io/",
 "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
@@ -30,7 +30,7 @@
 "showPostSource":1,
 "rssSplit":"sentence",
 "bottomText":"转载不用注明出处",
-"ogImage":"https://cdn.jsdelivr.net/gh/Meekdai/meekdai.github.io/logo64.jpg",
+"ogImage":"https://blog.meekdai.com/avatar.svg",
 "primerCSS":"<link href='https://mirrors.sustech.edu.cn/cdnjs/ajax/libs/Primer/21.0.7/primer.css' rel='stylesheet' />",
 "needComment":0
 }
