@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Tue, 03 Mar 2026 08:05:22 +0000</lastBuildDate><managingEditor>720科技的博客8.0</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0</webMaster><item><title>4 个方块摆图形问题</title><link>https://lianglitao.github.io//post/4%20-ge-fang-kuai-bai-tu-xing-wen-ti.html</link><description># 原题目：
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Tue, 03 Mar 2026 08:18:54 +0000</lastBuildDate><managingEditor>720科技的博客8.0</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0</webMaster><item><title>好消息：本学期有 123 天假！！！</title><link>https://lianglitao.github.io//post/hao-xiao-xi-%EF%BC%9A-ben-xue-qi-you-%20123%20-tian-jia-%EF%BC%81%EF%BC%81%EF%BC%81.html</link><description>## 一、基础天数（自然日）
+| 月份 | 天数 | 备注 |
+|------|------|------|
+| 3月  | 31天 | 3月1日-3月31日 |
+| 4月  | 30天 | 整月 |
+| 5月  | 31天 | 整月 |
+| 6月  | 30天 | 整月 |
+| 7月  | 1天  | 仅7月1日 |
+
+### 基础自然日总计
+31（3月）+ 30（4月）+ 31（5月）+ 30（6月）+ 1（7月）= **123天**
+
+## 二、中高考假期补充（常规情况）
+2026年中高考常规时间为：
+- 高考：6月7日-6月9日（3天）
+- 中考：通常在高考后1周左右，按6月14日-6月16日（3天）
+- 合计中高考相关假期：6天（该部分已包含在上述自然日中，不重复累加）
+
+## 最终结论
+2026年3月1日至2026年7月1日，小学假期总天数（含中高考假期）为：**123天**。</description><guid isPermaLink="true">https://lianglitao.github.io//post/hao-xiao-xi-%EF%BC%9A-ben-xue-qi-you-%20123%20-tian-jia-%EF%BC%81%EF%BC%81%EF%BC%81.html</guid><pubDate>Tue, 03 Mar 2026 08:18:26 +0000</pubDate></item><item><title>4 个方块摆图形问题</title><link>https://lianglitao.github.io//post/4%20-ge-fang-kuai-bai-tu-xing-wen-ti.html</link><description># 原题目：
 ![图片.jpg](https://test.fukit.cn/autoupload/f/Vt7HaCpyy1ZenJaWdYmOW5z8gFWbdrcvAHUJ_tZIgU8/20260303/Wtej/2063X380/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2026-03-03_154853_265.jpg)
 有多少种可能（允许边与边相连）
 
