@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Sun, 15 Feb 2026 01:08:09 +0000</lastBuildDate><managingEditor>720科技的博客8.0</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0</webMaster><item><title>7个月，8个版本：我的网站迭代回忆录</title><link>https://lianglitao.github.io//post/7-ge-yue-%EF%BC%8C8-ge-ban-ben-%EF%BC%9A-wo-de-wang-zhan-die-dai-hui-yi-lu.html</link><description>&gt; 7个月，8个版本
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>720科技的博客8.0</title><link>https://lianglitao.github.io/</link><description>720科技的日常分享</description><copyright>720科技的博客8.0</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://blog.meekdai.com/avatar.svg</url><title>avatar</title><link>https://lianglitao.github.io/</link></image><lastBuildDate>Tue, 03 Mar 2026 08:05:22 +0000</lastBuildDate><managingEditor>720科技的博客8.0</managingEditor><ttl>60</ttl><webMaster>720科技的博客8.0</webMaster><item><title>4 个方块摆图形问题</title><link>https://lianglitao.github.io//post/4%20-ge-fang-kuai-bai-tu-xing-wen-ti.html</link><description># 原题目：
+![图片.jpg](https://test.fukit.cn/autoupload/f/Vt7HaCpyy1ZenJaWdYmOW5z8gFWbdrcvAHUJ_tZIgU8/20260303/Wtej/2063X380/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2026-03-03_154853_265.jpg)
+有多少种可能（允许边与边相连）
+
+# 解答：
+![2235X1429/微信图片_20260303153542_81_11.png](https://test.fukit.cn/autoupload/f/Vt7HaCpyy1ZenJaWdYmOW5z8gFWbdrcvAHUJ_tZIgU8/20260303/oOjW/2235X1429/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260303153542_81_11.png)
+
+# 最终答案
+55 个（不知道对不对）。</description><guid isPermaLink="true">https://lianglitao.github.io//post/4%20-ge-fang-kuai-bai-tu-xing-wen-ti.html</guid><pubDate>Tue, 03 Mar 2026 08:04:50 +0000</pubDate></item><item><title>7个月，8个版本：我的网站迭代回忆录</title><link>https://lianglitao.github.io//post/7-ge-yue-%EF%BC%8C8-ge-ban-ben-%EF%BC%9A-wo-de-wang-zhan-die-dai-hui-yi-lu.html</link><description>&gt; 7个月，8个版本
 &gt; “新”，是对美的追求。</description><guid isPermaLink="true">https://lianglitao.github.io//post/7-ge-yue-%EF%BC%8C8-ge-ban-ben-%EF%BC%9A-wo-de-wang-zhan-die-dai-hui-yi-lu.html</guid><pubDate>Sat, 14 Feb 2026 07:26:38 +0000</pubDate></item><item><title>好无聊的水文章 🙃</title><link>https://lianglitao.github.io//post/hao-wu-liao-de-shui-wen-zhang-%20%F0%9F%99%83.html</link><description>&gt; 立flag时有多豪言壮语，摆烂时就有多理直气壮
 
 ## 今日「未完成」清单
